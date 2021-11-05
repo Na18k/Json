@@ -1,0 +1,38 @@
+[
+	{
+		"username":"Kainan",
+		"password":"123",
+		"profile":	{
+							"first_name":"Kainan",
+							"last_name":"Henrique"
+			},
+			"contact":	{
+							"email":[
+										"kainanhenriq18@hotmail.com",
+										"kainan_18_game@hotmail.com"
+							],
+							"phone":[
+										"99999-9999",
+										"97097-9834"
+							]
+			}
+		},
+		{
+			"username":"Henrique",
+			"password":"456",
+			"profile":	{
+							"first_name":"Henrique",
+							"last_name":"Thenorian"
+			},
+			"contact":	{
+							"email":[	
+										"kainanhenriq@hotmail.com",
+										"kainangame@hotmail.com"
+							],
+							"phone":[
+										"99999-9989",
+										"97097-9534"
+							]
+			}
+		}
+	]
