@@ -1,0 +1,27 @@
+[
+    {
+        "nomeDaPagina": "Página 1",
+        "linkDaPagina": "file:///C:/Users/User/Desktop/Projetos/thex/index.html",
+        "descricaoDaPagina": "Descrição dessa página ficará aqui!",
+        "tagsDaPagina": [
+            "a",
+            "b",
+            "c",
+            "d",
+            "e",
+            "f",
+        ],
+        "nomeLinksUteis": [
+            "Link 1",
+            "Link 2",
+            "Link 3",
+            "Link 4"
+        ],
+        "linksUteis": [
+            "Link 1",
+            "Link 2",
+            "Link 3",
+            "Link 4"
+        ]
+    }
+]
